@@ -14,7 +14,7 @@ n=n/10;
 if(temp==sum)    
 printf("palindrome number ");    
 else    
-printf("not a palindrome");   
+printf("not  palindrome");   
 //return 0;  
 }   
 
